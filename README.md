@@ -2,6 +2,11 @@
 
 This is the repository dedicated to developing the **Chef Intermediate**.
 
+The slides for this content are contained in two separate repositories:
+
+* Day 1 - [Test Driven Cookbook Development](https://github.com/chef-training/test_driven_cookbook_development)
+* Day 2 - [Extending Cookbooks](https://github.com/chef-training/extending_cookbooks)
+
 ## Abstract / Description
 
 Chef Intermediate is an instructor-led course that introduces you to test-driven development and extending your cookbooks.
