@@ -2,11 +2,6 @@
 
 This is the repository dedicated to developing the **Chef Intermediate**.
 
-The slides for this content are contained in two separate repositories:
-
-* Day 1 - [Test Driven Cookbook Development](https://github.com/chef-training/test_driven_cookbook_development)
-* Day 2 - [Extending Cookbooks](https://github.com/chef-training/extending_cookbooks)
-
 ## Abstract / Description
 
 Chef Intermediate is an instructor-led course that introduces you to test-driven development and extending your cookbooks.
@@ -90,6 +85,6 @@ These modules focus on getting learners engaged with the content as quickly as p
 
 For us at Chef this workstation is currently being managed as a Amazon Machine Instance (AMI). This AMI is managed by Chef through the Training AWS Account.
 
-* Intermediate - CentOS 6.7 - 1.0.0 (ami-48ecb65f)
+* Intermediate - CentOS 6.7 - 3.0.0
 
 The AMI was generated with [Packer](https://github.com/chef-training/chefdk-image) and adheres to the following [policy](https://github.com/chef-training/chefdk-image/blob/master/cookbooks/workstations/recipes/intermediate.rb). It is based on a Marketplace AMI so it cannot be made public. If you would like access to this AMI to deliver training please contact [training@chef.io](mailto:training@chef.io) the request that includes your Amazon Account Id.

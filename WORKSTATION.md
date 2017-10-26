@@ -22,6 +22,6 @@ $ yum update -y
 
 * INSTALL various editors and tools that the participant will install: vim; emacs; nano; tree; and git.
 
-* Clone the [Extending Cookbooks Repository](https://github.com/chef-training/extending_cookbooks-repo). This content is used during the second day of content and should be found in the day_2 folder.
+* Clone the [Chef Intermediate Repository](https://github.com/chef-training/chef-intermediate-repo). Copy the `apache` cookbook into the home directory of the Chef user.
 
 * Install [Docker on CentOS](https://docs.docker.com/engine/installation/centos/)
