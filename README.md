@@ -85,6 +85,6 @@ These modules focus on getting learners engaged with the content as quickly as p
 
 For us at Chef this workstation is currently being managed as a Amazon Machine Instance (AMI). This AMI is managed by Chef through the Training AWS Account.
 
-* Intermediate - CentOS 6.7 - 3.0.0
+* Intermediate - CentOS 6.7 - 3.0.2
 
 The AMI was generated with [Packer](https://github.com/chef-training/chefdk-image) and adheres to the following [policy](https://github.com/chef-training/chefdk-image/blob/master/cookbooks/workstations/recipes/intermediate.rb). It is based on a Marketplace AMI so it cannot be made public. If you would like access to this AMI to deliver training please contact [training@chef.io](mailto:training@chef.io) the request that includes your Amazon Account Id.
